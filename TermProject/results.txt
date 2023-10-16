@@ -1,0 +1,21 @@
+Execution Date Time: 2022-12-18 23:26:57
+Partitioning Type: DOCUMENTBASED
+Partition Num: 1
+Average Broker Cost: 1013.0469
+Average Partition Costs: [126083.2703]
+Overall Cost: 127096.3172
+
+Execution Date Time: 2022-12-18 23:27:06
+Partitioning Type: TERMBASED
+Partition Num: 4
+Average Broker Cost: 45177.1892
+Average Partition Costs: [21202.6517, 17120.0319, 44356.7178, 43403.8689]
+Overall Cost: 89533.907
+
+Execution Date Time: 2022-12-18 23:27:14
+Partitioning Type: TERMBASED
+Partition Num: 32
+Average Broker Cost: 107938.7116
+Average Partition Costs: [418.9745, 329.3681, 517.3553, 652.8281, 12234.0825, 1013.5105, 1079.2094, 1090.8793, 2772.5044, 978.3172, 1095.7922, 17055.4485, 483.3674, 890.208, 13432.2147, 17788.8458, 2058.979, 407.5269, 25440.5976, 4178.9761, 1589.4331, 6794.8059, 1187.7048, 685.5328, 597.9951, 2460.3176, 886.9025, 1207.8166, 1047.3157, 4245.9777, 716.9413, 743.5417]
+Overall Cost: 133379.3092
+

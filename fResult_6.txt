@@ -1,0 +1,38 @@
+initialCacheSize = 4000 #In terms of PL length #5000 = 40kb
+maxCachePLLength = 400
+Frequency
+partitionNum = 32
+queryCount = 30000
+
+Node id =>  0 , percentage hit => 0.30349099099099097 , cache hit counter=>  539 , total Recieved Term =>  1776
+Node id =>  1 , percentage hit => 0.27049754730203224 , cache hit counter=>  386 , total Recieved Term =>  1427
+Node id =>  2 , percentage hit => 0.37141249296567247 , cache hit counter=>  660 , total Recieved Term =>  1777
+Node id =>  3 , percentage hit => 0.30297029702970296 , cache hit counter=>  612 , total Recieved Term =>  2020
+Node id =>  4 , percentage hit => 0.5 , cache hit counter=>  1197 , total Recieved Term =>  2394
+Node id =>  5 , percentage hit => 0.26517083120856705 , cache hit counter=>  520 , total Recieved Term =>  1961
+Node id =>  6 , percentage hit => 0.3789858860428646 , cache hit counter=>  725 , total Recieved Term =>  1913
+Node id =>  7 , percentage hit => 0.27781013395457194 , cache hit counter=>  477 , total Recieved Term =>  1717
+Node id =>  8 , percentage hit => 0.26554621848739496 , cache hit counter=>  474 , total Recieved Term =>  1785
+Node id =>  9 , percentage hit => 0.3364485981308411 , cache hit counter=>  612 , total Recieved Term =>  1819
+Node id =>  10 , percentage hit => 0.2779740871613663 , cache hit counter=>  472 , total Recieved Term =>  1698
+Node id =>  11 , percentage hit => 0.3391647855530474 , cache hit counter=>  601 , total Recieved Term =>  1772
+Node id =>  12 , percentage hit => 0.3205051112447384 , cache hit counter=>  533 , total Recieved Term =>  1663
+Node id =>  13 , percentage hit => 0.44792671166827386 , cache hit counter=>  929 , total Recieved Term =>  2074
+Node id =>  14 , percentage hit => 0.2047589229805886 , cache hit counter=>  327 , total Recieved Term =>  1597
+Node id =>  15 , percentage hit => 0.3380202474690664 , cache hit counter=>  601 , total Recieved Term =>  1778
+Node id =>  16 , percentage hit => 0.34101941747572817 , cache hit counter=>  562 , total Recieved Term =>  1648
+Node id =>  17 , percentage hit => 0.4027849406910779 , cache hit counter=>  781 , total Recieved Term =>  1939
+Node id =>  18 , percentage hit => 0.4171270718232044 , cache hit counter=>  906 , total Recieved Term =>  2172
+Node id =>  19 , percentage hit => 0.3674469243331519 , cache hit counter=>  675 , total Recieved Term =>  1837
+Node id =>  20 , percentage hit => 0.3020176544766709 , cache hit counter=>  479 , total Recieved Term =>  1586
+Node id =>  21 , percentage hit => 0.27784810126582277 , cache hit counter=>  439 , total Recieved Term =>  1580
+Node id =>  22 , percentage hit => 0.3106283029947152 , cache hit counter=>  529 , total Recieved Term =>  1703
+Node id =>  23 , percentage hit => 0.3683223992502343 , cache hit counter=>  786 , total Recieved Term =>  2134
+Node id =>  24 , percentage hit => 0.23282442748091603 , cache hit counter=>  366 , total Recieved Term =>  1572
+Node id =>  25 , percentage hit => 0.3494199535962877 , cache hit counter=>  753 , total Recieved Term =>  2155
+Node id =>  26 , percentage hit => 0.36576576576576575 , cache hit counter=>  609 , total Recieved Term =>  1665
+Node id =>  27 , percentage hit => 0.3533201189296333 , cache hit counter=>  713 , total Recieved Term =>  2018
+Node id =>  28 , percentage hit => 0.44449520328917314 , cache hit counter=>  973 , total Recieved Term =>  2189
+Node id =>  29 , percentage hit => 0.25246753246753245 , cache hit counter=>  486 , total Recieved Term =>  1925
+Node id =>  30 , percentage hit => 0.26456477039067855 , cache hit counter=>  386 , total Recieved Term =>  1459
+Node id =>  31 , percentage hit => 0.25662154208357857 , cache hit counter=>  436 , total Recieved Term =>  1699

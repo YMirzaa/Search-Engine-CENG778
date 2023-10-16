@@ -1,0 +1,40 @@
+initialCacheSize = 5000 #In terms of PL length #5000 = 40kb
+maxCachePLLength = 300
+Stability 
+period = 16
+interval = 8
+partitionNum = 32
+queryCount = 30000
+
+Node id ====>  0 ,,,,cache hit counter=====>  649 , total Recieved term ====>  1776 , percentage hit ====> 0.36542792792792794
+Node id ====>  1 ,,,,cache hit counter=====>  401 , total Recieved term ====>  1427 , percentage hit ====> 0.28100911002102313
+Node id ====>  2 ,,,,cache hit counter=====>  729 , total Recieved term ====>  1777 , percentage hit ====> 0.41024198086662916
+Node id ====>  3 ,,,,cache hit counter=====>  754 , total Recieved term ====>  2020 , percentage hit ====> 0.37326732673267327
+Node id ====>  4 ,,,,cache hit counter=====>  1280 , total Recieved term ====>  2394 , percentage hit ====> 0.5346700083542189
+Node id ====>  5 ,,,,cache hit counter=====>  666 , total Recieved term ====>  1961 , percentage hit ====> 0.33962264150943394
+Node id ====>  6 ,,,,cache hit counter=====>  822 , total Recieved term ====>  1913 , percentage hit ====> 0.4296915838996341
+Node id ====>  7 ,,,,cache hit counter=====>  625 , total Recieved term ====>  1717 , percentage hit ====> 0.36400698893418754
+Node id ====>  8 ,,,,cache hit counter=====>  630 , total Recieved term ====>  1785 , percentage hit ====> 0.35294117647058826
+Node id ====>  9 ,,,,cache hit counter=====>  684 , total Recieved term ====>  1819 , percentage hit ====> 0.3760307861462342
+Node id ====>  10 ,,,,cache hit counter=====>  562 , total Recieved term ====>  1698 , percentage hit ====> 0.3309776207302709
+Node id ====>  11 ,,,,cache hit counter=====>  770 , total Recieved term ====>  1772 , percentage hit ====> 0.4345372460496614
+Node id ====>  12 ,,,,cache hit counter=====>  611 , total Recieved term ====>  1663 , percentage hit ====> 0.36740829825616356
+Node id ====>  13 ,,,,cache hit counter=====>  1060 , total Recieved term ====>  2074 , percentage hit ====> 0.5110896817743491
+Node id ====>  14 ,,,,cache hit counter=====>  450 , total Recieved term ====>  1597 , percentage hit ====> 0.2817783343769568
+Node id ====>  15 ,,,,cache hit counter=====>  748 , total Recieved term ====>  1778 , percentage hit ====> 0.42069741282339707
+Node id ====>  16 ,,,,cache hit counter=====>  656 , total Recieved term ====>  1648 , percentage hit ====> 0.39805825242718446
+Node id ====>  17 ,,,,cache hit counter=====>  895 , total Recieved term ====>  1939 , percentage hit ====> 0.46157813305827744
+Node id ====>  18 ,,,,cache hit counter=====>  1043 , total Recieved term ====>  2172 , percentage hit ====> 0.48020257826887663
+Node id ====>  19 ,,,,cache hit counter=====>  771 , total Recieved term ====>  1837 , percentage hit ====> 0.4197060424605335
+Node id ====>  20 ,,,,cache hit counter=====>  567 , total Recieved term ====>  1586 , percentage hit ====> 0.3575031525851198
+Node id ====>  21 ,,,,cache hit counter=====>  509 , total Recieved term ====>  1580 , percentage hit ====> 0.3221518987341772
+Node id ====>  22 ,,,,cache hit counter=====>  621 , total Recieved term ====>  1703 , percentage hit ====> 0.3646506165590135
+Node id ====>  23 ,,,,cache hit counter=====>  962 , total Recieved term ====>  2134 , percentage hit ====> 0.450796626054358
+Node id ====>  24 ,,,,cache hit counter=====>  443 , total Recieved term ====>  1572 , percentage hit ====> 0.2818066157760814
+Node id ====>  25 ,,,,cache hit counter=====>  923 , total Recieved term ====>  2155 , percentage hit ====> 0.4283062645011601
+Node id ====>  26 ,,,,cache hit counter=====>  713 , total Recieved term ====>  1665 , percentage hit ====> 0.4282282282282282
+Node id ====>  27 ,,,,cache hit counter=====>  822 , total Recieved term ====>  2018 , percentage hit ====> 0.40733399405351833
+Node id ====>  28 ,,,,cache hit counter=====>  1133 , total Recieved term ====>  2189 , percentage hit ====> 0.5175879396984925
+Node id ====>  29 ,,,,cache hit counter=====>  655 , total Recieved term ====>  1925 , percentage hit ====> 0.34025974025974026
+Node id ====>  30 ,,,,cache hit counter=====>  469 , total Recieved term ====>  1459 , percentage hit ====> 0.32145305003427005
+Node id ====>  31 ,,,,cache hit counter=====>  533 , total Recieved term ====>  1699 , percentage hit ====> 0.31371394938198943
